@@ -54,7 +54,5 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 The dashboard helps identify sales trends, high-performing locations, customer behavior, and food-category performance. These insights can support better business decisions related to sales strategy, regional performance, and customer satisfaction.
 
 ## 👨‍💻 Author
-
 Nitish Kumar
-
 Excel Data Analyst | Data Cleaning | Data Analysis | Dashboard Development
