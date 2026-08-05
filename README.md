@@ -21,4 +21,4 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 - Average Order Value: ₹268.51
 - Rating Count: 5.59M
 - Total Orders: 197.43K
-  - Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/nitishkumar8383000-lab/Swiggy-Sales-Analysis-Excel-Dashboard/commit/61b258dc5607251b57a17bc9d26a9e043b245c77">View Dashboard</a>
