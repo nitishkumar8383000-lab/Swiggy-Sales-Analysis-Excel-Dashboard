@@ -33,3 +33,7 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 - State-wise Sales, Ratings & Orders
 - Interactive filters for Months, Restaurant Name, and Category
 
+## Dashboard
+<img width="1920" height="1080" alt="Screenshot 2026-08-03 195441" src="https://github.com/user-attachments/assets/b3dce389-dcc6-44dc-beab-1af50a3b5cb5" />
+
+
