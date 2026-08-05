@@ -22,3 +22,14 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 - Rating Count: 5.59M
 - Total Orders: 197.43K
 - Dashboard Interaction <a href="https://github.com/nitishkumar8383000-lab/Swiggy-Sales-Analysis-Excel-Dashboard/commit/61b258dc5607251b57a17bc9d26a9e043b245c77">View Dashboard</a>
+
+## 📈 Dashboard Features
+- Monthly Sales Trend
+- Daily Sales Trend
+- Weekly Sales Trend
+- Sales by Food Type
+- Sales by State
+- Top 5 Cities by Sales
+- State-wise Sales, Ratings & Orders
+- Interactive filters for Months, Restaurant Name, and Category
+
