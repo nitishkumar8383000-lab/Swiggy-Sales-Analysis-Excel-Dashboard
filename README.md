@@ -5,3 +5,12 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 
 ## Dataset used
 - <a href="https://github.com/nitishkumar8383000-lab/Swiggy-Sales-Analysis-Excel-Dashboard/commit/20e8188647dc4d91f67101af1af05cddce01dca9">Dataset</a>
+
+
+## 🎯Objectives
+- Analyze overall sales performance
+- Track monthly, weekly, and daily sales trends
+- Compare Veg vs Non-Veg sales
+- Analyze state-wise and city-wise sales
+- Monitor customer ratings and order volume
+- Identify top-performing cities
