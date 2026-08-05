@@ -35,5 +35,21 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 
 ## Dashboard
 <img width="1920" height="1080" alt="Screenshot 2026-08-03 195441" src="https://github.com/user-attachments/assets/b3dce389-dcc6-44dc-beab-1af50a3b5cb5" />
+## Analysis
+<img width="1920" height="1080" alt="Screenshot 2026-08-03 195532" src="https://github.com/user-attachments/assets/dfc0e5aa-7eeb-4a0e-95e3-b73ea3fa0158" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-08-03 195552" src="https://github.com/user-attachments/assets/2335ab47-cadc-4140-90f3-254d9d0a9aeb" />
 
+## 🛠️ Tools & Skills
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- Excel Charts
+- Dashboard Design
+- Data Visualization
+- Interactive Slicers/Filters
+
+## 💡 Key Insights
+
+The dashboard helps identify sales trends, high-performing locations, customer behavior, and food-category performance. These insights can support better business decisions related to sales strategy, regional performance, and customer satisfaction.
