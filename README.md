@@ -14,3 +14,11 @@ This project presents an interactive Swiggy Sales Analysis Dashboard created usi
 - Analyze state-wise and city-wise sales
 - Monitor customer ratings and order volume
 - Identify top-performing cities
+
+## 📌 Key KPIs
+- Total Sales: ₹53.01M
+- Average Rating: 4.34
+- Average Order Value: ₹268.51
+- Rating Count: 5.59M
+- Total Orders: 197.43K
+  - Dashboard Interaction <a href="
